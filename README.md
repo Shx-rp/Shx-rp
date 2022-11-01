@@ -2,7 +2,7 @@
 + I'm Shx a cybersecurity aficionado and a pseudo programmer ;)
 
 ## 🔷 **About me** 🔷
-+ I'm a autonomous cybersecurity student,looking to improve on my skills via online content and Capture The Flag's. I do some simple python programs, and also know a bit of C .
++ I'm a autonomous cybersecurity student,looking to improve on my skills via online content and Capture The Flag's. I do some simple python programs, and also know a bit of C but thats not the point... or shoud i say the ;
 
 ## 🟥 **Links** 🟥
 
